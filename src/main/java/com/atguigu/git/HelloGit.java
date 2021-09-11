@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("Hello World2");
         System.out.println("Hello Master");
         System.out.println("Hello 尚硅谷");
+        System.out.println("git push url branch");
     }
 }
